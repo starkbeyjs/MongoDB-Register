@@ -2,6 +2,8 @@
 
 • Bu altyapı **Serendia Squad** sunucusu için **Stârk#9841** tarafından hazırlanmıştır.
 
+• Hoşgeldin mesajı sizin zevkinize bıraktım. Ondan dolayı eklemedim kolay gelsin :)
+
 • Arkadaşlar Merhaba v12 Discord MongoDb'li Register Botu Altyapısını Sizin için Hazırladım ve Paylaştım. Herhangi Bir Sorun ile Karşılaşırsanız da Serendia Squad Discord Sunucumuza Gelerek Destek Alabilirsiniz. İyi Kodlamalar :) ❤❤😍
 
 
